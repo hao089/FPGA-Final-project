@@ -22,3 +22,4 @@ Team members:108321004 108321011
 產生隨機位置的三種掉落物
 可操控位置的移動物
 碰到
+![image](https://github.com/hao089/FPGA-Final-project/blob/main/1.png)
