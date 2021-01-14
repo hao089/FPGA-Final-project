@@ -33,3 +33,4 @@ Team members:108321004 108321011
      ![image](https://github.com/hao089/FPGA-Final-project/blob/main/3.png)  
      2. 難度調整  
      3. 撞到掉落物時有Beep聲  
+影片:[連結](https://mega.nz/file/vv5EwDZa#BovquXxVR6tPWSq7LHhqU_TwgYCzHjvO2P6_5z-pkRA)
